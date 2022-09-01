@@ -1,0 +1,10 @@
+{
+    "apps": [
+      {
+        "serverURL": "http://localhost:1337/parse",
+        "appId": "RentHouseManagement",
+        "masterKey": "sa123",
+        "appName": "RentHouseManagement"
+      }
+    ]
+  }
